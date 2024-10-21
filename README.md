@@ -1,11 +1,11 @@
-# Bước 1
+# STEP 1
     
-    - Chạy file add_faces.py, nhập tên người dùng ở terminal và chụp 100 tấm ảnh làm dataset 
+    - Run the add_faces.py file, enter the username in the terminal and take 100 photos as a dataset 
 
-# Bước 2 
+# STEP 2 
 
-    - Chạy file app.py để tích hợp nhận diện khuôn mặt và chấm công
+    - Run the app.py file to integrate facial recognition and timekeeping
 
-# Bước 3 
+# STEP 3 
 
-    - Chạy lệnh streamlit run .\app.py để hiển thị file chấm công
+    - Run the command streamlit run .\app.py in terminal to display the attendance file
